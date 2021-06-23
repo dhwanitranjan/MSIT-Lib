@@ -1,0 +1,23 @@
+.info__txt{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.jumbotron{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    background-color: #00adb5;
+    color: #eeeeee;
+}
+
+.info__txt > h3{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #00adb5;
+}
+
+.info__txt > p{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}

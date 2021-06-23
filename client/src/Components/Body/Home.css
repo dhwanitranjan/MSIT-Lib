@@ -1,0 +1,17 @@
+.home__txt{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.jumbotron{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    background-color: #00adb5;
+    color: #eeeeee;
+}
+
+.home__txt > p{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}

@@ -1,0 +1,17 @@
+.search{
+    display: flex;
+}
+
+.dark-theme {
+    background-color: #2e2d30;
+    color: #f8f8f8;
+  }
+  
+.dark {
+    margin-left: 17vh;
+    display:inline-block;
+    cursor: pointer;
+    border:none;
+    background-color: white;
+    border-radius: 25px;
+}

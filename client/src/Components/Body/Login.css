@@ -1,0 +1,55 @@
+.login{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#si{
+    background-color: #00adb5;
+    color: #eeeeee;
+}
+
+.reg{
+    color: #00adb5;
+}
+
+.regbtn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+h3{
+    text-align: center;
+    color: #222831;
+}
+
+.username, .password{
+    display: flex;
+}
+
+.password{
+    margin-top: 50px;
+}
+
+.icon{
+    font-size: x-large;
+    margin-right: 25px;
+    color: #222831;
+}
+
+.inup{
+    color: #00adb5;
+}
+
+.alert{
+    font-size: 12px;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 800px) {
+    .disp{
+        width: 100%;
+    }
+
+}

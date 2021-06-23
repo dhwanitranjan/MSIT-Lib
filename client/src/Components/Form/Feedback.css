@@ -1,0 +1,76 @@
+.gender{
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.accordian_header{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.accordian_header:hover{
+    text-decoration: none;
+}
+
+.form_fill{
+    margin: 40px 0px 0px 40px;
+}
+
+.fblist{
+    background-color: #00adb5;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 25px;
+}
+
+.fblist p{
+    margin: 5px 20px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+button{
+    margin-top: 30px;
+}
+
+.card-title{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px;
+}
+
+.card-text{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card_name{
+    font-size: 13px;
+    margin-right: 20px;
+    color: #00adb5;
+}
+
+.del{
+    font-size: small;
+    color: #222831;
+}
+
+.del:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.card_abt{
+    font-size: 12px;
+    margin: 0px 7px;
+    color: #00adb5;
+}

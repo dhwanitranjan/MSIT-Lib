@@ -1,0 +1,39 @@
+.footer{
+    background-color: #00adb5;
+    bottom: 0px;
+    z-index: 1;
+    color: #eeeeee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.upper_footer{
+    height: 200px;
+    justify-content: center;
+}
+.btm{
+    background-color: #222831;
+    padding: auto;
+    font-size: 12px;
+    padding: 5px 0px;
+}
+
+#footerimg{
+    width: 125px;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.footer_links{
+    color: #F8F8F8;
+    text-decoration: none;
+}
+
+.footer_links:hover{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.footer_header{
+    font-size: 20px;
+}

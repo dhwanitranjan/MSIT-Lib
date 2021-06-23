@@ -1,0 +1,41 @@
+.course{
+    text-transform: uppercase;
+}
+
+img{
+    width: 80px;
+}
+
+.of{
+    line-height: 1.5em;
+    height: 3em;
+    overflow: hidden;
+}
+
+.urlAlert{
+    color: red;
+    font-size: 10px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.dark-theme {
+    background-color: #2e2d30;
+    color: #f8f8f8;
+  }
+  
+.dark {
+    margin-left: 17vh;
+    display:inline-block;
+    cursor: pointer;
+    border:none;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.course_head{
+    padding: 20px;
+}

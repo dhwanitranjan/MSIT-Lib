@@ -1,0 +1,11 @@
+{
+    "extensions.json": [
+        {
+            "operation": "PASTE",
+            "lines": 5,
+            "keyStrokeTimeStamp": "Tue May 25 2021 19:01:56",
+            "keyStrokeInfo": "{\r\n    \"recommendations\": [\r\n        \"zignd.html-css-class-completion\"\r\n    ]\r\n}",
+            "position": "1,1"
+        }
+    ]
+}

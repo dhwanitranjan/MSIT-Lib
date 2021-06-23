@@ -1,0 +1,12 @@
+.signup{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.flex{
+    display: flex;
+    margin-top: 30px;
+}
+
+.flexname{
+    display: flex;
+}
